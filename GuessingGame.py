@@ -7,7 +7,7 @@ myName = input()
 
 
 
-number = random.randint(1, 20)
+number = random.randint(1, 10)
 
 print('Well, ' + myName + ', I am thinking of a number between 1 and 10.')
 
